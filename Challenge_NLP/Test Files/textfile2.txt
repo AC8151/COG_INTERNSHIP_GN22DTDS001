@@ -1,0 +1,11 @@
+vowels are a,e,i,o and u.
+Some examples are:
+apple, apron, adult, agent, acrylic, apostle, arrow, archer, argyle, agar, acorn
+
+elephant, eagle, evening, ear, edelweiss, egg, envelope, enemy, elf, elm
+
+ivory, item, idol, island, isle, igloo, ink, ice, icicle, icon
+
+oven, oval, oblong, ocean, organ, opposite, orange, octopus, olive, offer, oil
+
+umbrella, universe, utensil, university, uniform, union, urchin, udder, utopia
