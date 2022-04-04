@@ -11,7 +11,7 @@ def file_reader():
 
 ## finding currencies (only $,£,₹)      
 def currency_parser(file):
-    cur = re.findall(r"([$£₹][0-9]+\.?[0-9]*)", file)
+    cur = re.findall(r"([$£₹][.\s]?[0-9]+\.?[0-9]*)", file)
     if cur == []: return '\nNo Currency'
     return '\nCurrencies: '+str(cur)
 
