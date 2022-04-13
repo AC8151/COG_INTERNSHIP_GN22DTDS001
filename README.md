@@ -1,0 +1,1 @@
+This is my public repository for some tasks that I performed as an Intern (PAT) at Cognizant Technology Solutions. All these projects and tasks are based on AI ML, and involve topics ranging from NLP to time-series analysis, beginner to advanced topics in the field of AI ML.
